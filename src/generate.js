@@ -5,7 +5,12 @@ import { writeFileSync } from 'fs';
 const OUTPUT_FILE = "catppuccin-peacock-colors.json";
 
 // This is the list of flavors to include in the output
-const INCLUDED_FLAVORS = ["Latte", "Frappé"]
+const INCLUDED_FLAVORS = [
+    "Latte",
+    "Frappé",
+    // "Macchiato",
+    // "Mocha",
+]
 
 /**
  * Main function to generate the color palette for peacock
