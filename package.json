@@ -1,0 +1,21 @@
+{
+  "name": "catppuccin-peacock",
+  "version": "1.0.0",
+  "description": "Utility for generating VSCode Peacock Catppuccin colors",
+  "scripts": {
+    "generate": "node src/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axis7818/catppuccin-peacock.git"
+  },
+  "author": "Cameron Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axis7818/catppuccin-peacock/issues"
+  },
+  "homepage": "https://github.com/axis7818/catppuccin-peacock#readme",
+  "dependencies": {
+    "@catppuccin/palette": "^1.7.1"
+  }
+}
