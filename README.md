@@ -9,7 +9,7 @@ It uses the [`@catppuccin/palette`](https://github.com/catppuccin/palette) npm p
 ## Usage
 
 1. Install the [VSCode Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock).
-2. Copy the contents of `catppuccin-peacock-colors.json` to the [`peacock.favoriteColors`](https://www.peacockcode.dev/guide/#favorite-colors) VSCode setting.
+2. Copy the contents of [`catppuccin-peacock-colors.json`](./catppuccin-peacock-colors.json) to the [`peacock.favoriteColors`](https://www.peacockcode.dev/guide/#favorite-colors) VSCode setting.
 3. In VSCode, select a color by using the [`Peacock: Change to a Favorite Color`](https://www.peacockcode.dev/guide/#commands) VSCode command.
 
 ## Regenerating Colors
