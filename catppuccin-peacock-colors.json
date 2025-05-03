@@ -110,5 +110,117 @@
   {
     "name": "Catppuccin Frappé - Lavender",
     "value": "#babbf1"
+  },
+  {
+    "name": "Catppuccin Macchiato - Rosewater",
+    "value": "#f4dbd6"
+  },
+  {
+    "name": "Catppuccin Macchiato - Flamingo",
+    "value": "#f0c6c6"
+  },
+  {
+    "name": "Catppuccin Macchiato - Pink",
+    "value": "#f5bde6"
+  },
+  {
+    "name": "Catppuccin Macchiato - Mauve",
+    "value": "#c6a0f6"
+  },
+  {
+    "name": "Catppuccin Macchiato - Red",
+    "value": "#ed8796"
+  },
+  {
+    "name": "Catppuccin Macchiato - Maroon",
+    "value": "#ee99a0"
+  },
+  {
+    "name": "Catppuccin Macchiato - Peach",
+    "value": "#f5a97f"
+  },
+  {
+    "name": "Catppuccin Macchiato - Yellow",
+    "value": "#eed49f"
+  },
+  {
+    "name": "Catppuccin Macchiato - Green",
+    "value": "#a6da95"
+  },
+  {
+    "name": "Catppuccin Macchiato - Teal",
+    "value": "#8bd5ca"
+  },
+  {
+    "name": "Catppuccin Macchiato - Sky",
+    "value": "#91d7e3"
+  },
+  {
+    "name": "Catppuccin Macchiato - Sapphire",
+    "value": "#7dc4e4"
+  },
+  {
+    "name": "Catppuccin Macchiato - Blue",
+    "value": "#8aadf4"
+  },
+  {
+    "name": "Catppuccin Macchiato - Lavender",
+    "value": "#b7bdf8"
+  },
+  {
+    "name": "Catppuccin Mocha - Rosewater",
+    "value": "#f5e0dc"
+  },
+  {
+    "name": "Catppuccin Mocha - Flamingo",
+    "value": "#f2cdcd"
+  },
+  {
+    "name": "Catppuccin Mocha - Pink",
+    "value": "#f5c2e7"
+  },
+  {
+    "name": "Catppuccin Mocha - Mauve",
+    "value": "#cba6f7"
+  },
+  {
+    "name": "Catppuccin Mocha - Red",
+    "value": "#f38ba8"
+  },
+  {
+    "name": "Catppuccin Mocha - Maroon",
+    "value": "#eba0ac"
+  },
+  {
+    "name": "Catppuccin Mocha - Peach",
+    "value": "#fab387"
+  },
+  {
+    "name": "Catppuccin Mocha - Yellow",
+    "value": "#f9e2af"
+  },
+  {
+    "name": "Catppuccin Mocha - Green",
+    "value": "#a6e3a1"
+  },
+  {
+    "name": "Catppuccin Mocha - Teal",
+    "value": "#94e2d5"
+  },
+  {
+    "name": "Catppuccin Mocha - Sky",
+    "value": "#89dceb"
+  },
+  {
+    "name": "Catppuccin Mocha - Sapphire",
+    "value": "#74c7ec"
+  },
+  {
+    "name": "Catppuccin Mocha - Blue",
+    "value": "#89b4fa"
+  },
+  {
+    "name": "Catppuccin Mocha - Lavender",
+    "value": "#b4befe"
   }
 ]

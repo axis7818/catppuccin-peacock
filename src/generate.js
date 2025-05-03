@@ -8,8 +8,8 @@ const OUTPUT_FILE = "catppuccin-peacock-colors.json";
 const INCLUDED_FLAVORS = [
     "Latte",
     "Frappé",
-    // "Macchiato",
-    // "Mocha",
+    "Macchiato",
+    "Mocha",
 ]
 
 /**
